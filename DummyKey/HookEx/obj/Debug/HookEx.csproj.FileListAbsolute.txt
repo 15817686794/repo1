@@ -1,0 +1,16 @@
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\HookEx\bin\Debug\HookEx.dll
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\HookEx\bin\Debug\HookEx.pdb
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\HookEx\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\HookEx\obj\Debug\HookEx.dll
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\HookEx\obj\Debug\HookEx.pdb
+E:\源码\C#范例大全（卷二）\09\012\DummyKey\HookEx\bin\Debug\HookEx.dll
+E:\源码\C#范例大全（卷二）\09\012\DummyKey\HookEx\bin\Debug\HookEx.pdb
+E:\源码\C#范例大全（卷二）\09\012\DummyKey\HookEx\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全（卷二）\09\012\DummyKey\HookEx\obj\Debug\HookEx.dll
+E:\源码\C#范例大全（卷二）\09\012\DummyKey\HookEx\obj\Debug\HookEx.pdb
+F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\bin\Debug\HookEx.dll
+F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\bin\Debug\HookEx.pdb
+F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\obj\Debug\HookEx.csprojAssemblyReference.cache
+F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\obj\Debug\HookEx.csproj.CoreCompileInputs.cache
+F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\obj\Debug\HookEx.dll
+F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\obj\Debug\HookEx.pdb
