@@ -46,3 +46,15 @@ C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKe
 C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.CopyComplete
 C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.exe
 C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.pdb
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\bin\Debug\DummyKey.exe
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\bin\Debug\DummyKey.pdb
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\bin\Debug\HookEx.dll
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\bin\Debug\HookEx.pdb
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.AssemblyReference.cache
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.Frm_Main.resources
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.Properties.Resources.resources
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.GenerateResource.cache
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.CoreCompileInputs.cache
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.CopyComplete
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.exe
+C:\Users\kwang\OneDrive\文件\tutorial\adamTest\adamMD029\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.pdb

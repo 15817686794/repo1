@@ -912,7 +912,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 73;
-            this.button1.Text = "button1";
+            this.button1.Text = "AdamTest";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Frm_Main
@@ -998,11 +998,7 @@
             this.Controls.Add(this.btnESC);
             this.Name = "Frm_Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-<<<<<<< HEAD
-            this.Text = "20221107JSLTest-1";
-=======
-            this.Text = "20221107 (AdamTest_aaaaa)";
->>>>>>> 23c0cfd7681ce8ecc26a7dda4b58184133698de4
+            this.Text = "20221107JSLTest-1 adam-2";
             this.TopMost = true;
             this.ResumeLayout(false);
 
