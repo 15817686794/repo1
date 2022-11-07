@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a6e24b0-6081-453d-954c-a32edd326a83": {
+      "ProjectGuid": "3a6e24b0-6081-453d-954c-a32edd326a83",
+      "DisplayName": "DummyKey",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
