@@ -34,3 +34,15 @@ C:\Users\kaka.tang\Desktop\JSLGitTest\clone-repos2\repo1\DummyKey\DummyKey\obj\D
 C:\Users\kaka.tang\Desktop\JSLGitTest\clone-repos2\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.CopyComplete
 C:\Users\kaka.tang\Desktop\JSLGitTest\clone-repos2\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.exe
 C:\Users\kaka.tang\Desktop\JSLGitTest\clone-repos2\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.pdb
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\bin\Debug\DummyKey.exe
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\bin\Debug\DummyKey.pdb
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\bin\Debug\HookEx.dll
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\bin\Debug\HookEx.pdb
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csprojAssemblyReference.cache
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.Frm_Main.resources
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.Properties.Resources.resources
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.GenerateResource.cache
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.CoreCompileInputs.cache
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.csproj.CopyComplete
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.exe
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\DummyKey\obj\Debug\DummyKey.pdb

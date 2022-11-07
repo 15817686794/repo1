@@ -26,3 +26,9 @@ C:\Users\kaka.tang\Desktop\JSLGitTest\clone-repos2\repo1\DummyKey\HookEx\obj\Deb
 C:\Users\kaka.tang\Desktop\JSLGitTest\clone-repos2\repo1\DummyKey\HookEx\obj\Debug\HookEx.csproj.CoreCompileInputs.cache
 C:\Users\kaka.tang\Desktop\JSLGitTest\clone-repos2\repo1\DummyKey\HookEx\obj\Debug\HookEx.dll
 C:\Users\kaka.tang\Desktop\JSLGitTest\clone-repos2\repo1\DummyKey\HookEx\obj\Debug\HookEx.pdb
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\HookEx\bin\Debug\HookEx.dll
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\HookEx\bin\Debug\HookEx.pdb
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\HookEx\obj\Debug\HookEx.csprojAssemblyReference.cache
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\HookEx\obj\Debug\HookEx.csproj.CoreCompileInputs.cache
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\HookEx\obj\Debug\HookEx.dll
+C:\Users\kaka.tang\Desktop\demo02\git1\repo1\DummyKey\HookEx\obj\Debug\HookEx.pdb
