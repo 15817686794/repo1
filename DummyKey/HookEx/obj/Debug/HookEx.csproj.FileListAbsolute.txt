@@ -14,3 +14,9 @@ F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\Hook
 F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\obj\Debug\HookEx.csproj.CoreCompileInputs.cache
 F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\obj\Debug\HookEx.dll
 F:\苏工\苏工\钩子\C# 虚拟键盘源代码实例\srcfans.com\DummyKey\HookEx\obj\Debug\HookEx.pdb
+C:\Users\kaka.tang\Desktop\repositorys\clone-repos1\repo1\DummyKey\HookEx\bin\Debug\HookEx.dll
+C:\Users\kaka.tang\Desktop\repositorys\clone-repos1\repo1\DummyKey\HookEx\bin\Debug\HookEx.pdb
+C:\Users\kaka.tang\Desktop\repositorys\clone-repos1\repo1\DummyKey\HookEx\obj\Debug\HookEx.csprojAssemblyReference.cache
+C:\Users\kaka.tang\Desktop\repositorys\clone-repos1\repo1\DummyKey\HookEx\obj\Debug\HookEx.csproj.CoreCompileInputs.cache
+C:\Users\kaka.tang\Desktop\repositorys\clone-repos1\repo1\DummyKey\HookEx\obj\Debug\HookEx.dll
+C:\Users\kaka.tang\Desktop\repositorys\clone-repos1\repo1\DummyKey\HookEx\obj\Debug\HookEx.pdb

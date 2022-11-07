@@ -911,7 +911,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImage = global::DummyKey.Properties.Resources.键盘_1_;
-            this.ClientSize = new System.Drawing.Size(413, 180);
+            this.ClientSize = new System.Drawing.Size(415, 177);
             this.Controls.Add(this.btnDEL);
             this.Controls.Add(this.btnINS);
             this.Controls.Add(this.btnPSC);
@@ -987,7 +987,7 @@
             this.Controls.Add(this.btnESC);
             this.Name = "Frm_Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "虚拟键盘操作";
+            this.Text = "20221107江申良修改";
             this.TopMost = true;
             this.ResumeLayout(false);
 
