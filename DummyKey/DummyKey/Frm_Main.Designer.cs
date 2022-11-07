@@ -101,6 +101,7 @@
             this.btnF2 = new DummyKey.FecitButton();
             this.btnF1 = new DummyKey.FecitButton();
             this.btnESC = new DummyKey.FecitButton();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnDEL
@@ -905,13 +906,23 @@
             this.btnESC.Text = "Esc";
             this.btnESC.UseVisualStyleBackColor = true;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(430, 64);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 73;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Frm_Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImage = global::DummyKey.Properties.Resources.键盘_1_;
-            this.ClientSize = new System.Drawing.Size(415, 177);
+            this.ClientSize = new System.Drawing.Size(565, 177);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnDEL);
             this.Controls.Add(this.btnINS);
             this.Controls.Add(this.btnPSC);
@@ -987,7 +998,11 @@
             this.Controls.Add(this.btnESC);
             this.Name = "Frm_Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+<<<<<<< HEAD
             this.Text = "20221107JSLTest-1";
+=======
+            this.Text = "20221107 (AdamTest_aaaaa)";
+>>>>>>> 23c0cfd7681ce8ecc26a7dda4b58184133698de4
             this.TopMost = true;
             this.ResumeLayout(false);
 
@@ -1068,6 +1083,7 @@
         private FecitButton btnPSC;
         private FecitButton btnINS;
         private FecitButton btnDEL;
+        private System.Windows.Forms.Button button1;
     }
 }
 
