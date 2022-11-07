@@ -987,7 +987,7 @@
             this.Controls.Add(this.btnESC);
             this.Name = "Frm_Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "20221107江申良修改(2)";
+            this.Text = "20221107AdamTest";
             this.TopMost = true;
             this.ResumeLayout(false);
 
